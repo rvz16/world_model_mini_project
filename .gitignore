@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/dataset.pkl
+outputs/checkpoints/*.pt
+.DS_Store
+.claude/
+scratchpad/
+main_task.md
