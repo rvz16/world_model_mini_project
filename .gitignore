@@ -6,3 +6,4 @@ outputs/checkpoints/*.pt
 .claude/
 scratchpad/
 main_task.md
+report/report.tex
